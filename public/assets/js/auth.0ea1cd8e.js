@@ -1,0 +1,1 @@
+import"./vendor/vendor-essential.41987d0e.js";import{B as o}from"./app.e5c25aad.js";function l(e=!1){window.localStorage.removeItem(o.localStorageKey),window.localStorage.removeItem(o.localStorageVersionKey),window.localStorage.clear(),e&&window.location.reload(!0)}export{l as c};
